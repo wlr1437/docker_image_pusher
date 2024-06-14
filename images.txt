@@ -6,4 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nginx:1.15.5
 redis:7.0.10
+mysql:8.0.30
+redis:latest
+centos:7
+portainer/portainer:latest
 cooderl/wewe-rss-sqlite:latest
