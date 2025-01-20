@@ -11,3 +11,4 @@ redis:latest
 centos:7
 portainer/portainer:latest
 cooderl/wewe-rss-sqlite:latest
+nickzurich/efak:latest
